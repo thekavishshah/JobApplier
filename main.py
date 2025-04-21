@@ -5,9 +5,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time, re, requests
 
-EMAIL = "kshah77@asu.edu"
-PWD = "Ahmedabad@2003"
-RESUME_PATH = "/Users/kavish/Downloads/KAVISH_SHAH_RESUME-APRIL.pdf"
+EMAIL = "YOUR_EMAIL_ID"
+PWD = "YOUR_PASSWORD_HERE"
+RESUME_PATH = "LINK/TO/YOUR/RESUME"
 MAX_APPLIES = 5 
 
 # Raw README URL for the 'dev' branch of the Summer2025-Internships repo
